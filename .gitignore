@@ -89,3 +89,7 @@ upskill/*.md
 
 # Brainstorm mockups (superpowers visual companion) - never ship
 .superpowers/
+
+!documents/cv/cv.pdf
+!documents/diplomas/diplomas.pdf
+!documents/linkedin/Profile.pdf
