@@ -39,6 +39,59 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
+## STAR Candidates (Complete Manually)
+<!-- Added by /setup Path A from CV/background documents. Stubs only - flesh out S/T/A/R before using in an interview. -->
+
+### Green Gadget sustainability strategy & Corporate Carbon Footprint (Gadget Entertainment Group AG)
+**Source:** CV / background doc - Sustainability Manager, Gadget Entertainment Group AG (Nov 2022-Jul 2023)
+**What happened:** Built a sustainability monitoring system and Corporate Carbon Footprint methodology (with myclimate, GHG Protocol Scope 1-3) for Switzerland's largest concert/festival organiser.
+**Why it matters:** "Tell me about a time you built something from scratch", "How do you approach a new sustainability/ESG mandate", "Describe a project with ambiguous scope"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Environmental Report coordination across 12 municipal departments (Stadt Zürich)
+**Source:** CV / background doc - Umweltpolitik Praktikum, Stadt Zürich (Sep 2020-Aug 2021)
+**What happened:** Led content/design redevelopment of the city's environmental report, coordinating across 12 municipal departments, delivered as a microsite.
+**Why it matters:** "Tell me about a time you coordinated many stakeholders", "How do you manage a cross-functional project with no direct authority over contributors"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### IT modernisation and AI-tool rollout (IKAMED Institute AG)
+**Source:** CV / background doc - Leiter IT-Systeme & Digitale Transformation, IKAMED Institute AG (Feb 2024-present)
+**What happened:** Led a server migration and introduced AI tools for automation, communication, and data-informed decision-making at an educational institute, while also improving the website for privacy and usability.
+**Why it matters:** "Describe a time you led a technical modernisation project", "How do you introduce new tools/AI into an organisation without disrupting operations", "Tell me about balancing technical debt against new initiatives"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### E-commerce platform + Virtual Fashion AI app (Marco Di Renzo Retail AG)
+**Source:** CV / background doc - Projektleitung E-Commerce & AI-Integration, Marco Di Renzo Retail AG (Apr 2025-present)
+**What happened:** Took a fashion brand's e-commerce platform from concept to delivery (WooCommerce, UI/UX, SEO) and built a Virtual Fashion app with API-based generative-AI content.
+**Why it matters:** "Tell me about a time you delivered a project end-to-end", "Describe how you've applied generative AI in a real product", "How do you balance technical delivery with business/marketing needs"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### First-author publication on teenage forest use (WSL)
+**Source:** CV - Erstautor wissenschaftliche Publikation, Eidg. Forschungsanstalt WSL (Aug 2018-Nov 2018)
+**What happened:** Independently authored a peer-reviewed statistical analysis of factors influencing teenagers' recreational forest use, published in Journal of Outdoor Recreation and Tourism (2019).
+**Why it matters:** "Tell me about a time you worked independently on an analytical problem", "Describe your approach to translating research into actionable recommendations"
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"

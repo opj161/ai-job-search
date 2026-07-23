@@ -115,12 +115,16 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For AI & Digital Transformation / IT Systems roles:**
+> ETH Zürich MSc graduate with cross-domain experience spanning AI and automation, IT systems leadership, and digital transformation. Currently leads IT systems and digital transformation at IKAMED Institute AG, including AI-tool introduction, server migration, and privacy-conscious website modernization, alongside a freelance AI-integrated e-commerce project. Works with agentic AI systems (CrewAI, RAG pipelines, Claude Code), API integrations, and DevOps tooling (Docker, Linux, CI/CD), and connects these to organisational requirements and non-technical stakeholders.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Sustainability & ESG/Data roles:**
+> ETH Zürich MSc in Environmental Systems and Policy with direct experience developing sustainability strategy, corporate carbon accounting (GHG Protocol, Scope 1-3, Corporate Carbon Footprint with myclimate), and climate-policy analysis for WWF Switzerland, the City of Zürich, and a major Swiss events company. Brings quantitative rigor (Python, R, SPSS, GIS) to sustainability reporting and stakeholder engagement, increasingly paired with digital-transformation and AI-tooling experience.
+
+**For Web/E-commerce & AI-Integration roles:**
+> Project lead who took a fashion brand's e-commerce platform from concept to delivery (WooCommerce, UI/UX, SEO) while integrating generative-AI content tools (a Virtual Fashion app with API-based AI content generation) and cross-media campaigns. ETH Zürich MSc background adds analytical and systems-level thinking to fast-moving digital and e-commerce projects.
+
+<!-- [Used for: general background - drafted directly from candidate's self-authored "Complete Professional Background" document during /setup, not from an archived application] -->
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
